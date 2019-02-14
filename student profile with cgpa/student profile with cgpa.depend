@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1529807283 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529596414 c:\users\inter_wave\documents\cse2101\student profile with cgpa\my.h
+
+1529903285 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\my.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<sstream>
+	<string>
+	<iomanip>
+	"my.h"
+	"homePage.h"
+	"student_profile.h"
+	"result.h"
+
+1529908215 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\homepage.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<iomanip>
+	"homePage.h"
+	"my.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529604259 c:\users\inter_wave\documents\cse2101\student profile with cgpa\homepage.h
+
+1529943188 c:\users\inter_wave\documents\cse2101\student profile with cgpa\s_admission.h
+	<iostream>
+	<string>
+
+1529660119 c:\users\inter_wave\documents\cse2101\student profile with cgpa\view_student.h
+
+1529941557 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\s_admission.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529659550 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\view_student.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view_student.h"
+
+1529660352 c:\users\inter_wave\documents\cse2101\student profile with cgpa\view.h
+
+1529807239 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\view.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529897946 c:\users\inter_wave\documents\cse2101\student profile with cgpa\student_profile.h
+
+1529904724 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\student_profile.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529944585 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa\result.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529899680 c:\users\inter_wave\documents\cse2101\student profile with cgpa\result.h
+
+1529908215 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\homepage.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<iomanip>
+	"homePage.h"
+	"my.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529604259 c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\homepage.h
+
+1529596414 c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\my.h
+
+1529906090 c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\s_admission.h
+	<iostream>
+	<string>
+
+1529660352 c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\view.h
+
+1529897946 c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\student_profile.h
+
+1529899680 c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\result.h
+
+1529807283 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529903285 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\my.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<sstream>
+	<string>
+	<iomanip>
+	"my.h"
+	"homePage.h"
+	"student_profile.h"
+	"result.h"
+
+1529906090 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\result.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529941557 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\s_admission.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529904724 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\student_profile.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
+1529807239 source:c:\users\inter_wave\documents\cse2101\student profile with cgpa - copy\view.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"my.h"
+	"homePage.h"
+	"s_admission.h"
+	"view.h"
+	"student_profile.h"
+	"result.h"
+
