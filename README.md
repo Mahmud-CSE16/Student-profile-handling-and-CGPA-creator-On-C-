@@ -1,6 +1,6 @@
 We can do such thing through my project:--
 
-We can admit students./n
+We can admit students.
 We can view all Student.
 We can edit Student profile.
 We can cancel admission.
